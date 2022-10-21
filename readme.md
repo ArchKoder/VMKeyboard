@@ -12,3 +12,5 @@
 
 * pynput - `pip install pynput`
 * playsound - `pip install playsound`
+* pygobject - `pip install pygobject`
+    * do visit this (doc)[https://pygobject.readthedocs.io/en/latest/devguide/dev_environ.html?highlight=wheels#arch-dep] about creating a development environment. It provides help as per operating systems.
